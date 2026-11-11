@@ -63,7 +63,7 @@ Más detalles en [docs/MONTAJE.md](docs/MONTAJE.md).
 > **Importante:** las medidas de los conectores de la caja (brida del SMA, altura y frontal del BNC) son estimaciones a partir de la huella de KiCad. **Mide tu conector con un calibre** y ajusta los parámetros `SMA_*` / `BNC_*` al principio de `enclosure/diplexor_caja.scad` antes de imprimir la versión final. También conviene imprimir primero solo la base y comprobar el ajuste.
 
 ## Pruebas
-Consulta el protocolo con NanoVNA en [docs/PRUEBAS.md](docs/PRUEBAS.md).
+Consulta el protocolo con NanoVNA en [docs/PRUEBAS.md](docs/PRUEBAS.md) y la hoja vacía de resultados en [docs/HOJA_RESULTADOS.csv](docs/HOJA_RESULTADOS.csv).
 
 ## Regenerar todo
 Requisitos: KiCad 7 (`kicad-cli` y el módulo Python `pcbnew`), `gerbv`, `openscad`, `python3-numpy` y `xvfb` (para los renders).

@@ -1,0 +1,7 @@
+prueba;nombre;montaje;criterio_documentado;fecha_hora_zona;operador;vna_instrumento_id;calibracion_ref;revision_pcb_o_serie;frecuencia_Hz;lectura;unidad;resultado_tipo;evidencia_archivo;decision;limitaciones
+1;Cortos y continuidad;Polímetro;RADIO-masa: ni corto ni resistencia baja en DC, RADIO-2m: continuidad en DC;;;;;;;;;;;NO_ENSAYADO;
+2;Adaptación (S11);VNA en RADIO, carga de 50 ohm en 2m y en 70cm;< -15 dB entre 144 y 146 MHz y entre 430 y 440 MHz;;;;;;;;;;;NO_ENSAYADO;
+3;Rama 2 m (S21);RADIO a 2m, carga de 50 ohm en 70cm;Pérdida < 0.5 dB a 145 MHz, rechazo > 35 dB a 435 MHz;;;;;;;;;;;NO_ENSAYADO;
+4;Rama 70 cm (S21);RADIO a 70cm, carga de 50 ohm en 2m;Pérdida < 0.7 dB a 435 MHz, rechazo > 35 dB a 145 MHz;;;;;;;;;;;NO_ENSAYADO;
+5;Aislamiento;2m a 70cm, carga de 50 ohm en RADIO;> 35 dB en las dos bandas;;;;;;;;;;;NO_ENSAYADO;
+6;Potencia;Radio, diplexor, vatímetro/ROE y carga;ROE estable y sin calentamiento apreciable al subir 1, 5 y 10 W (solo con autorización expresa de TX);;;;;;;;;;;NO_ENSAYADO;

@@ -16,3 +16,6 @@ Recomendaciones:
   - Si queda baja, reduce C4 un escalón (4.7 → 3.9 pF).
   - Si queda alta, sube L4 y L5 (15 → 18 nH).
 - Resultados de la simulación ideal: `make sim`.
+
+## Hoja de resultados
+[`HOJA_RESULTADOS.csv`](HOJA_RESULTADOS.csv) (separador `;`, UTF-8) recoge las pruebas 1-6 con sus criterios y sin valores. Todas empiezan en `NO_ENSAYADO`; rellena fecha, instrumento, calibración, lecturas con unidad y evidencia solo con medidas reales, y decide `APTO`/`NO_APTO`/`INDETERMINADO` según el criterio escrito. Un criterio no medido no es una aprobación.
