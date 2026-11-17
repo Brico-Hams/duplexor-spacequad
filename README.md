@@ -1,3 +1,7 @@
+<p align="center"><img src="branding/bricohams_horizontal.svg" alt="BricoHams · Radioafición · Hazlo tú mismo" width="420"></p>
+
+<p align="center"><a href="https://bricohams.org">bricohams.org</a> · Anatol EA5KAO · Diego EA5JEF · Pedro Roca Molina</p>
+
 # Diplexor 2 m / 70 cm: PCB y caja imprimible (SMA y BNC)
 
 Diplexor pasivo que separa las bandas de **2 m (144–146 MHz)** y **70 cm (430–440 MHz)** de un único conector de radio. Hay dos versiones que solo se diferencian en los conectores (**SMA** o **BNC**). Cada una tiene su PCB de 2 capas y su caja para impresora 3D, diseñada lo más compacta posible.
